@@ -66,3 +66,9 @@ python app.py
 ```
 
 - The app is currently deployed locally but can be extended to cloud platforms like AWS, GCP, or Heroku.
+
+📌 Key Learning Outcomes
+✅ Crime Data Analysis using EDA & Machine Learning
+✅ Time-Series Forecasting for Crime Trends
+✅ Building and Evaluating Classification Models
+✅ Deploying a Flask-Based Crime Prediction Model
