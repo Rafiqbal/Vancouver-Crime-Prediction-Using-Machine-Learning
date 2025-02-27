@@ -24,20 +24,6 @@ This project aims to analyze and predict **Vancouver’s criminal activity** usi
 
 ---
 
-## 📂 Repository Structure  
-
-📂 Vancouver-Crime-Prediction
-│── 📂 data/ # Contains dataset files
-│ ├── crimedata.csv # Raw dataset link
-│── 📂 notebooks/ # Contains Jupyter Notebook(s)
-│ ├── Vancouver_Crime_Analysis.ipynb # Main analysis notebook
-│── 📂 reports/ # Contains project documentation
-│ ├── FINALREPORT.pdf # Full project report
-│── 📂 reports/ # Contains project documentation
-│ ├── Presentation.pdf # Project presentation slides
-
----
-
 ## 📊 Exploratory Data Analysis (EDA)  
 Before building models, **EDA** was performed to analyze crime trends over time and across different neighborhoods.  
 
